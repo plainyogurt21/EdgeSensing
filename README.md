@@ -10,3 +10,7 @@ Download library `SharpIR` by Giuseppe Masino (version 2.0.1 if available). This
 ### Piezo Buzzer
 * Power (Red) -> Digital 3
 * Ground (Black) -> GND
+
+### Capicitor
+* One terminal -> 5V
+* Other terminal -> GND
