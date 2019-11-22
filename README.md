@@ -7,6 +7,7 @@ Download library `SharpIR` by Giuseppe Masino (version 2.0.1 if available). This
 * Ground (Black) -> GND
 * Power (Red) -> 5V
 * Signal (Yellow) -> Top Sensor is A0, Bottom is A1
+* Capacitor across 5V and GND
 ### Piezo Buzzer
 * Power (Red) -> Digital 3
 * Ground (Black) -> GND
