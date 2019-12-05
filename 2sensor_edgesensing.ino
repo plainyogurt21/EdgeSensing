@@ -22,9 +22,9 @@ void loop() {
   float topSensorDistance = adcFilter1.filter(topSensorDistance);
   float bottomSensorDistance = adcFilter1.filter(bottomSensorDistance);
 
-  if (topSensorDistance > 40) {
+  if (topSensorDistance > 45) {
     tone(3, 500);
-  } else if (bottomSensorDistance > 40) {
+  } else if (bottomSensorDistance > 45) {
     tone(3, 500);
   } else {
     noTone(3);
